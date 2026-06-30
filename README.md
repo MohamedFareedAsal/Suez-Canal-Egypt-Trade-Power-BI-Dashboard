@@ -10,7 +10,9 @@ The dashboard combines multiple datasets to provide insights into canal revenues
 
 ## Dashboard Preview
 
-<video src="vedio.mp4" width="100%" controls></video>---
+<video src="vedio.mp4" width="100%" controls></video>
+
+----
 
 ## Features
 
